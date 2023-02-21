@@ -1,5 +1,4 @@
 remote_theme: pages-themes/tactile@v0.2.0
 title: [Research Holder]
 description: [A short description of your site's purpose]
-baseurl: "/IoT-Research/" # the subpath of your site, e.g. /blog
 url: "https://itsjonasl.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
